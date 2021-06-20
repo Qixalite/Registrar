@@ -5,5 +5,5 @@ A plugin inspired by the persistent issue of players not recording their POV dem
 
 ### [Aad](http://steamcommunity.com/profiles/76561198126263769)
 <ul>
-  <li><a href="http://steamcommunity.com/profiles/76561198095524721" target="_blank">Add</a> is the original contributor and person behind the concept of this plugin. They brought this project to Qixalite's attention and gladly accepted his collaboration request from such a dedicated and passionate individual in the Team Fortress 2 Competitive scene.</li>
+  <li><a href="http://steamcommunity.com/profiles/76561198095524721" target="_blank">Aad</a> is the original contributor and person behind the concept of this plugin. They brought this project to Qixalite's attention and gladly accepted his collaboration request from such a dedicated and passionate individual in the Team Fortress 2 Competitive scene.</li>
 </ul>
